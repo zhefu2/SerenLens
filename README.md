@@ -54,7 +54,7 @@ Fu, Z., Niu, X. and Yu, L., 2023, July. Wisdom of Crowds and Fine-Grained Learni
 
 ```  
 @inproceedings{fu2023wisdom,
-  author    = {Fu, Zhe and Niu, Xi(Sunshine) and Li, Yu},
+  author    = {Fu, Zhe and Niu, Xi(Sunshine) and Yu, Li},
   title     = {Wisdom of Crowds and Fine-Grained Learning for Serendipity Recommendations},
   booktitle = {Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
   pages     = {*--*},
