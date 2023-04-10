@@ -46,7 +46,7 @@ Examples of annotated review data in two different domains:
 
 
 
-## Citing Us
+## Citing us
 If you feel the dataset helpful, please cite:
 
 Fu, Z., Niu, X. and Yu, L., 2023, July. Wisdom of Crowds and Fine-Grained Learning for Serendipity Recommendations. In _Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval_ (pp. *-*).
