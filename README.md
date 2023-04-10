@@ -11,7 +11,7 @@ The dataset uses Amazon Reviews Data (McAuley et al. 2015) as base and collects 
  Data statistics of each domain in _SerenLens_ dataset, more details can be found in our [paper]():
  
  |Attribute|Books|Movies & TV|
- |:----|:----:|:----:|
+ |----|:----:|:----:|
  |**User invloved in the reviews of serendipity**|**2,346**|**619**|
  |Items involved in the reviews of serendipity|2,227|634|
  |Other reviews involved for the involved users|262,691|74,253|
