@@ -44,7 +44,8 @@ Examples of annotated review data in two different domains:
 |Movies&TV| a18758s1puyidt	| b005lzw9fs	| 1344211200	| i can imagine how the plans for this one went:  let's pay someone a few dollars to write some stupid story, pay the "actors" a few bucks each to attempt to act and fail at it, shoot the same scenes over and over with really dumb effects, and wonder how many times the viewer will fast forward it just to get to the end.	| 1	 | 0 |
 |Movies&TV| a1j9s070l0mvwx	| b002bwp2ik	| 1417910400	| i came across warehouse 13 by accident while looking for another dvd (i don't have cable or satellite). the premise sounded interesting so i decided to buy this (i waited until it went on sale).  i found the show to be very entertaining. i like the idea of having a "secret" warehouse (leave it to the government) with lots of "paranormal" objects. some good laughs and drama. i enjoyed it so much i went ahead and ordered seasons 2 and 3 right away (they were on sale at amazon too).  season 1 has 12 episodes; it does have english subtitles for the hearing impaired; and several "extras".	| 5	| 1 |
 
-
+## Notes
+Since our _SerenLens_ dataset is uploaded through Github Large File Storage (LFS), please clone our repository to download the dataset. ([Instructions](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)].
 
 ## Citing us
 If you feel the dataset helpful, please cite:
