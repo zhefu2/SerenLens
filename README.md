@@ -47,7 +47,7 @@ Examples of annotated review data in two different domains:
 ## Download
 Since our _SerenLens_ dataset is uploaded through Github Large File Storage (LFS), you can download the dataset by cloning our repository to Github Desktop. ([Instructions](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop))
 
-## Citing Us
+## Citing us
 If you feel the dataset helpful, please cite:
 
 Fu, Z., Niu, X. and Yu, L., 2023, July. Wisdom of Crowds and Fine-Grained Learning for Serendipity Recommendations. In _Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval_ (pp. 739-748).
