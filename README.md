@@ -7,8 +7,7 @@ _SerenLens_ is our collected large ground truth dataset on people’s serendipit
 
 The dataset uses Amazon Reviews Data (McAuley et al. 2015) as base and collects the ground truth data on serendipity by our proposed _User Semantic Mining_ approach in [paper](https://dl.acm.org/doi/10.1145/3539618.3591787). Currently, the dataset contains annotated review data of two domains: **Books** and **Movies & TV**. The **Books** data have 265,037 reviews, 2,346 users, and 113,876 items. The **Movies & TV** data have 74,967 reviews, 619 users, and 23,950 movies/TV.
 
-### Notes
-Since our _SerenLens_ dataset is uploaded through Github Large File Storage (LFS), you can download the dataset by cloning our repository to Github Desktop. ([Instructions](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop))
+**Notes:** Since our _SerenLens_ dataset is uploaded through Github Large File Storage (LFS), you can download the dataset by cloning our repository to Github Desktop. ([Instructions](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop))
 
  ## Data Statistics
  Data statistics of each domain in _SerenLens_ dataset, more details can be found in our [paper](https://dl.acm.org/doi/10.1145/3539618.3591787):
