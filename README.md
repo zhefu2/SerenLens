@@ -1,5 +1,5 @@
 # SerenLens
-[SIGIR 2023] This repository contains the annotated dataset _SerenLens_ introduced in our full paper in SIGIR2023 _Wisdom of Crowds and Fine-Grained Learning for Serendipity Recommendations_. [[paper]]()
+[SIGIR 2023] This repository contains the annotated dataset _SerenLens_ introduced in our full paper in SIGIR2023 _Wisdom of Crowds and Fine-Grained Learning for Serendipity Recommendations_. [[paper]](https://dl.acm.org/doi/10.1145/3539618.3591787)
 
 ## Introduction
 
