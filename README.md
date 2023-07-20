@@ -5,10 +5,10 @@
 
 _SerenLens_ is our collected large ground truth dataset on people’s serendipity experiences. Here, we defined serendipity experiences based on literature: 1) having the two elements of unexpectedness and relevance in a discovery experience, and 2) the experience is positive.
 
-The dataset uses Amazon Reviews Data (McAuley et al. 2015) as base and collects the ground truth data on serendipity by our proposed _User Semantic Mining_ approach in [paper](). Currently, the dataset contains annotated review data of two domains: **Books** and **Movies & TV**. The **Books** data have 265,037 reviews, 2,346 users, and 113,876 items. The **Movies & TV** data have 74,967 reviews, 619 users, and 23,950 movies/TV.
+The dataset uses Amazon Reviews Data (McAuley et al. 2015) as base and collects the ground truth data on serendipity by our proposed _User Semantic Mining_ approach in [paper](https://dl.acm.org/doi/10.1145/3539618.3591787). Currently, the dataset contains annotated review data of two domains: **Books** and **Movies & TV**. The **Books** data have 265,037 reviews, 2,346 users, and 113,876 items. The **Movies & TV** data have 74,967 reviews, 619 users, and 23,950 movies/TV.
 
  ## Data Statistics
- Data statistics of each domain in _SerenLens_ dataset, more details can be found in our [paper]():
+ Data statistics of each domain in _SerenLens_ dataset, more details can be found in our [paper](https://dl.acm.org/doi/10.1145/3539618.3591787):
  
  |Attribute|Books|Movies & TV|
  |----|:----:|:----:|
@@ -53,12 +53,21 @@ Fu, Z., Niu, X. and Yu, L., 2023, July. Wisdom of Crowds and Fine-Grained Learni
 
 
 ```  
-@inproceedings{fu2023wisdom,
-  author    = {Fu, Zhe and Niu, Xi(Sunshine) and Yu, Li},
-  title     = {Wisdom of Crowds and Fine-Grained Learning for Serendipity Recommendations},
-  booktitle = {Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
-  pages     = {*--*},
-  publisher = {{ACM}},
-  year      = {2023}
+@inproceedings{10.1145/3539618.3591787,
+author = {Fu, Zhe and Niu, Xi and Yu, Li},
+title = {Wisdom of Crowds and Fine-Grained Learning for Serendipity Recommendations},
+year = {2023},
+isbn = {9781450394086},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3539618.3591787},
+doi = {10.1145/3539618.3591787},
+abstract = {Serendipity is a notion that means an unexpected but valuable discovery. Due to its elusive and subjective nature, serendipity is difficult to study even with today's advances in machine learning and deep learning techniques. Both ground truth data collecting and model developing are the open research questions. This paper addresses both the data and the model challenges for identifying serendipity in recommender systems. For the ground truth data collecting, it proposes a new and scalable approach by using both user generated reviews and a crowd sourcing method. The result is a large-scale ground truth data on serendipity. For model developing, it designed a self-enhanced module to learn the fine-grained facets of serendipity in order to mitigate the inherent data sparsity problem in any serendipity ground truth dataset. The self-enhanced module is general enough to be applied with many base deep learning models for serendipity. A series of experiments have been conducted. As the result, a base deep learning model trained on our collected ground truth data, as well as with the help of the self-enhanced module, outperforms the state-of-the-art baseline models in predicting serendipity.},
+booktitle = {Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+pages = {739–748},
+numpages = {10},
+keywords = {transformers, serendipity, recommender systems, deep learning models, crowd-sourcing},
+location = {Taipei, Taiwan},
+series = {SIGIR '23}
 }
 ```
