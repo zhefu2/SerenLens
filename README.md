@@ -53,19 +53,14 @@ Fu, Z., Niu, X. and Yu, L., 2023, July. Wisdom of Crowds and Fine-Grained Learni
 
 
 ```  
-@inproceedings{10.1145/3539618.3591787,
-author = {Fu, Zhe and Niu, Xi and Yu, Li},
-title = {Wisdom of Crowds and Fine-Grained Learning for Serendipity Recommendations},
-year = {2023},
-isbn = {9781450394086},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3539618.3591787},
-doi = {10.1145/3539618.3591787},
-booktitle = {Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
-pages = {739–748},
-numpages = {10},
-location = {Taipei, Taiwan},
-series = {SIGIR '23}
+@inproceedings{fu2023wisdom,
+  author    = {Fu, Zhe and Niu, Xi(Sunshine) and Yu, Li},
+  title     = {Wisdom of Crowds and Fine-Grained Learning for Serendipity Recommendations},
+  booktitle = {Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages     = {739--748},
+  publisher = {{ACM}},
+  year      = {2023},
+  location = {Taipei, Taiwan},
+  series = {SIGIR '23}
 }
 ```
